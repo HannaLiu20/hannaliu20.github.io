@@ -7,6 +7,12 @@ author_profile: true
 
 ISMRM Presentations
 ----
+* ISMRM 2020: 
+Hongyan Liu, Oscar van der Heide, Cornelis A.T. van den Berg, and Alessandro Sbrizzi. Accelerated MR-STAT Algorithm: Achieving 10-minute High-Resolution Reconstructions on a Desktop PC.
+    * Digital poster (Abstract 3477)
+    
+ 
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
