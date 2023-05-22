@@ -15,7 +15,7 @@ ISMRM Presentations
 
 * **ISMRM 2022**:
 
-  **Hongyan Liu**, Oscar van der Heide, Miha Fuderer, Cornelis A.T. van den Berg, and Alessandro Sbrizzi. **3D MR-STAT: towards a fast multi-parametric protocol with increased SNR**. 
+  **Hongyan Liu**, Oscar van der Heide, Miha Fuderer, Cornelis A.T. van den Berg, and Alessandro Sbrizzi. [**3D MR-STAT: towards a fast multi-parametric protocol with increased SNR**.](https://cds.ismrm.org/protected/22MPresentations/abstracts/1348.html) 
   * Digital poster (Abstract 1348)
 
   **Hongyan Liu**, Tom Bruijnen, Maaike van Haandel, Oscar van der Heide, Miha Fuderer, Cornelis A.T. van den Berg, and Alessandro Sbrizzi. **Increasing the T2 sensitivity of MR-STAT sequences by small quadratic RF phase increments**.
