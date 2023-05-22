@@ -7,16 +7,11 @@ author_profile: true
 
 ISMRM Presentations
 ----
-* ISMRM 2020: 
 
-  **Hongyan Liu**, Oscar van der Heide, Cornelis A.T. van den Berg, and Alessandro Sbrizzi. Accelerated MR-STAT Algorithm: Achieving 10-minute High-Resolution Reconstructions on a Desktop PC.
-  * Digital poster (Abstract 3477)
+* ISMRM 2023:
 
-* ISMRM 2021:
-
-  **Hongyan Liu**, Oscar van der Heide, Cornelis A.T. van den Berg, and Alessandro Sbrizzi.Fast and Accurate Modeling of Transient-state Sequences by Recurrent Neural Networks.
-  * Oral presentation (Abstract 0329)
-  * Magna Cum Laude Merit Award
+  **Hongyan Liu**, Oscar van der Heide, Edwin Versteeg, Miha Fuderer, Fei Xu, Martijn Froeling, Cornelis A.T. van den Berg, and Alessandro Sbrizzi. High-resolution three-dimensional MR-STAT for musculoskeletal applications.
+  * Oral presentation (Abstract 0672)
 
 * ISMRM 2022:
 
@@ -24,10 +19,26 @@ ISMRM Presentations
   * Digital poster (Abstract 1348)
 
   **Hongyan Liu**, Tom Bruijnen, Maaike van Haandel, Oscar van der Heide, Miha Fuderer, Cornelis A.T. van den Berg, and Alessandro Sbrizzi. Increasing the T2 sensitivity of MR-STAT sequences by small quadratic RF phase increments.
+  * Oral presentation (Abstract 0625)
+  * Magna Cum Laude Merit Award
+
+* ISMRM 2021:
+
+  **Hongyan Liu**, Oscar van der Heide, Cornelis A.T. van den Berg, and Alessandro Sbrizzi.Fast and Accurate Modeling of Transient-state Sequences by Recurrent Neural Networks.
   * Oral presentation (Abstract 0329)
   * Magna Cum Laude Merit Award
 
-* ISMRM 2023:
+* ISMRM 2020: 
+
+  **Hongyan Liu**, Oscar van der Heide, Cornelis A.T. van den Berg, and Alessandro Sbrizzi. Accelerated MR-STAT Algorithm: Achieving 10-minute High-Resolution Reconstructions on a Desktop PC.
+  * Digital poster (Abstract 3477)
+
+
+
+
+
+
+
 
 
  
