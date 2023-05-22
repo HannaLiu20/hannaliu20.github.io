@@ -12,8 +12,9 @@ redirect_from:
 Education
 ======
 * B.S. in Biomedical Engineering, Tsinghua University, 2011
-* M.S. in Applied Mathematics, Utrecht University, 2014
+* M.S. in Applied Mathematics, Utrecht University, 2018
 * Ph.D in Medical Imaging, University Medical Center Utrecht, 2023 (expected)
+
 
 Work experience
 ======
@@ -21,14 +22,9 @@ Work experience
   * Neusoft Medical, Shenyang, China
   * Member of CT Physics & Recon Group, focusing on CT reconstruction algorithms
 
-  
-Skills
+
+Research Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Quantitative MRI; Modelling of MR physics; Medical imaging reconstruction.
 
 
