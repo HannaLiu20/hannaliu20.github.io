@@ -10,7 +10,7 @@ ISMRM Presentations
 
 * **ISMRM 2023**:
 
-  **Hongyan Liu**, Oscar van der Heide, Edwin Versteeg, Miha Fuderer, Fei Xu, Martijn Froeling, Cornelis A.T. van den Berg, and Alessandro Sbrizzi. **High-resolution three-dimensional MR-STAT for musculoskeletal applications**.
+  **Hongyan Liu**, Oscar van der Heide, Edwin Versteeg, Miha Fuderer, Fei Xu, Martijn Froeling, Cornelis A.T. van den Berg, and Alessandro Sbrizzi. [**High-resolution three-dimensional MR-STAT for musculoskeletal applications**.](https://submissions.mirasmart.com/ISMRM2023/Itinerary/PresentationDetail.aspx?evdid=3020)
   * Oral presentation (Abstract 0672)
 
 * **ISMRM 2022**:
