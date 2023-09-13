@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-1. **Liu, H.**, van der Heide, O., Versteeg, E., Froeling, M., Fuderer, M., Xu, F., van den Berg, C.A., Sbrizzi, A. A three-dimensional MR-STAT protocol for high-resolution multi-parametric quantitative MRI (2023). Submitted to NMR in Biomedicine. [[Link]](https://arxiv.org/abs/2305.13022)
+1. **Liu, H.**, van der Heide, O., Versteeg, E., Froeling, M., Fuderer, M., Xu, F., van den Berg, C.A., Sbrizzi, A. A three-dimensional MR-STAT protocol for high-resolution multi-parametric quantitative MRI (2023). Accepted by NMR in Biomedicine. [[Link]](https://arxiv.org/abs/2305.13022)
 
 1. Fuderer, M., van der Heide, O., **Liu, H.**, van den Berg, C. A., & Sbrizzi, A. (2023). Efficient performance analysis and optimization of transient‐state sequences for multiparametric magnetic resonance imaging. NMR in Biomedicine, 36(3), e4864.[[Link]](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/nbm.4864)
 
